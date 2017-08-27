@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VadsPaymentPlugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-08 17:28-0000\n"
+"PO-Revision-Date: 2011-05-08 17:28-0000\n"
+"Last-Translator: \n"
+"Language-Team: Lyra Network <support@payzen.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /srv/lyra-data/workspace.php/thecartpress_1.0.7/src/vadspaymentplugin\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: vads_payment_plugin.php:28
+msgid "Configure payment method "
+msgstr ""
+
+#: vads_payment_plugin.php:28
+msgid "Author"
+msgstr ""
+
+#: vads_payment_plugin.php:89
+msgid "Payment method unavailable for this currency."
+msgstr ""
+
+#: vads_payment_plugin.php:184
+msgid "Your payment has been correctly done, you will be redirected shortly."
+msgstr ""
+
+#: vads_payment_plugin.php:186
+msgid "An error has occured, you will be redirected shortly."
+msgstr ""
+
+#: vads_form_tmpl.php:9
+msgid "Click the button to pay with the secured payment platform "
+msgstr ""
+
+#: vads_admin_tmpl.php:11
+msgid "Developped by"
+msgstr ""
+
+#: vads_admin_tmpl.php:20
+msgid "Contact us"
+msgstr ""
+
+#: vads_admin_tmpl.php:29
+msgid "Module version"
+msgstr ""
+
+#: vads_admin_tmpl.php:38
+msgid "Platform version"
+msgstr ""
+
+#: vads_admin_tmpl.php:47
+msgid "Tested with"
+msgstr ""
+
+#: vads_admin_tmpl.php:60
+msgid "Platform URL"
+msgstr ""
+
+#: vads_admin_tmpl.php:64
+msgid "Link to the payment platform."
+msgstr ""
+
+#: vads_admin_tmpl.php:70
+msgid "Site ID"
+msgstr ""
+
+#: vads_admin_tmpl.php:74
+msgid "The identifier provided by your bank."
+msgstr ""
+
+#: vads_admin_tmpl.php:81
+msgid "Certificate in test mode"
+msgstr ""
+
+#: vads_admin_tmpl.php:86
+msgid "Certificate provided by your bank for test (Available in your back office)."
+msgstr ""
+
+#: vads_admin_tmpl.php:93
+msgid "Certificate in production mode"
+msgstr ""
+
+#: vads_admin_tmpl.php:98
+msgid "Certificate provided by your bank (Available in your back office)."
+msgstr ""
+
+#: vads_admin_tmpl.php:105
+msgid "Mode"
+msgstr ""
+
+#: vads_admin_tmpl.php:111
+msgid "The context mode of this module."
+msgstr ""
+
+#: vads_admin_tmpl.php:122
+msgid "Default language"
+msgstr ""
+
+#: vads_admin_tmpl.php:127
+msgid "French"
+msgstr ""
+
+#: vads_admin_tmpl.php:128
+msgid "German"
+msgstr ""
+
+#: vads_admin_tmpl.php:129
+msgid "English"
+msgstr ""
+
+#: vads_admin_tmpl.php:130
+msgid "Spanish"
+msgstr ""
+
+#: vads_admin_tmpl.php:131
+msgid "Chinese"
+msgstr ""
+
+#: vads_admin_tmpl.php:132
+msgid "Italian"
+msgstr ""
+
+#: vads_admin_tmpl.php:133
+msgid "Japanese"
+msgstr ""
+
+#: vads_admin_tmpl.php:134
+msgid "Portuguese"
+msgstr ""
+
+#: vads_admin_tmpl.php:136
+msgid "Select the language to use on the payment page by default."
+msgstr ""
+
+#: vads_admin_tmpl.php:143
+msgid "Available languages"
+msgstr ""
+
+#: vads_admin_tmpl.php:157
+msgid "Select none to use gateway config."
+msgstr ""
+
+#: vads_admin_tmpl.php:164
+msgid "Shop name"
+msgstr ""
+
+#: vads_admin_tmpl.php:169
+msgid "Shop name to display on the payment page. Leave blank to use gateway config."
+msgstr ""
+
+#: vads_admin_tmpl.php:176
+msgid "Shop url"
+msgstr ""
+
+#: vads_admin_tmpl.php:181
+msgid "Shop url to display on the payment page. Leave blank to use gateway config."
+msgstr ""
+
+#: vads_admin_tmpl.php:188
+msgid "Capture delay"
+msgstr ""
+
+#: vads_admin_tmpl.php:193
+msgid "The number of days before the restoration bank (adjustable in your back office)."
+msgstr ""
+
+#: vads_admin_tmpl.php:200
+msgid "Validation mode"
+msgstr ""
+
+#: vads_admin_tmpl.php:205
+msgid "Default"
+msgstr ""
+
+#: vads_admin_tmpl.php:206
+msgid "Automatic"
+msgstr ""
+
+#: vads_admin_tmpl.php:207
+msgid "Manual"
+msgstr ""
+
+#: vads_admin_tmpl.php:209
+msgid "If manual is selected, you will have to confirm payments manually in your back office."
+msgstr ""
+
+#: vads_admin_tmpl.php:217
+msgid "Card types"
+msgstr ""
+
+#: vads_admin_tmpl.php:222
+msgid "The card type(s) that can be used for the payment separated by semicolons."
+msgstr ""
+
+#: vads_admin_tmpl.php:233
+msgid "Minimum amount"
+msgstr ""
+
+#: vads_admin_tmpl.php:238
+msgid "Minimum amount allowed."
+msgstr ""
+
+#: vads_admin_tmpl.php:245
+msgid "Maximum amount"
+msgstr ""
+
+#: vads_admin_tmpl.php:250
+msgid "Maximum amount allowed."
+msgstr ""
+
+#: vads_admin_tmpl.php:261
+msgid "Automatic forward"
+msgstr ""
+
+#: vads_admin_tmpl.php:265
+msgid "Yes"
+msgstr ""
+
+#: vads_admin_tmpl.php:266
+msgid "No"
+msgstr ""
+
+#: vads_admin_tmpl.php:267
+msgid "If enabled, the client is automatically forwarded to your site at the end of the payment process."
+msgstr ""
+
+#: vads_admin_tmpl.php:274
+msgid "Success forward timeout"
+msgstr ""
+
+#: vads_admin_tmpl.php:279
+msgid "Time in seconds (0-300) before the client is automatically forwarded to your site when the payment was successful."
+msgstr ""
+
+#: vads_admin_tmpl.php:286
+msgid "Success forward message"
+msgstr ""
+
+#: vads_admin_tmpl.php:291
+msgid "Message posted on the payment platform before forwarding when the payment was successful."
+msgstr ""
+
+#: vads_admin_tmpl.php:298
+msgid "Failure forward timeout"
+msgstr ""
+
+#: vads_admin_tmpl.php:303
+msgid "Time in seconds (0-300) before the client is automatically forwarded to your site when the payment failed."
+msgstr ""
+
+#: vads_admin_tmpl.php:310
+msgid "Failure forward message"
+msgstr ""
+
+#: vads_admin_tmpl.php:315
+msgid "Message posted on the payment platform before forwarding when the payment failed."
+msgstr ""
+
+#: vads_admin_tmpl.php:322
+msgid "Return mode"
+msgstr ""
+
+#: vads_admin_tmpl.php:331
+msgid "Method that will be used for transmitting the payment result from the payment gateway to your store."
+msgstr ""
+
+#: vads_admin_tmpl.php:338
+msgid "Additional GET parameters"
+msgstr ""
+
+#: vads_admin_tmpl.php:343
+msgid "Extra parameters sent on return in GET mode."
+msgstr ""
+
+#: vads_admin_tmpl.php:350
+msgid "Additional POST parameters"
+msgstr ""
+
+#: vads_admin_tmpl.php:355
+msgid "Extra parameters sent on return in POST mode."
+msgstr ""
+
+#: vads_admin_tmpl.php:362
+msgid "Return URL"
+msgstr ""
+
+#: vads_admin_tmpl.php:367
+msgid "URL on which the client is redirected after payment."
+msgstr ""
+
+#: vads_admin_tmpl.php:374
+msgid "Server URL to copy in your store back office"
+msgstr ""
+
