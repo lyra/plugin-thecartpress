@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VadsPaymentPlugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-08 17:27-0000\n"
+"PO-Revision-Date: 2011-05-08 17:27-0000\n"
+"Last-Translator: \n"
+"Language-Team: Lyra network <support@payzen.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /srv/lyra-data/workspace.php/thecartpress_1.0.7/src/vadspaymentplugin\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: vads_payment_plugin.php:28
+msgid "Configure payment method "
+msgstr "Configuration de la méthode de paiement "
+
+#: vads_payment_plugin.php:28
+msgid "Author"
+msgstr "Auteur"
+
+#: vads_payment_plugin.php:89
+msgid "Payment method unavailable for this currency."
+msgstr "Ce mode de paiement est indisponible pour cette devise."
+
+#: vads_payment_plugin.php:184
+msgid "Your payment has been correctly done, you will be redirected shortly."
+msgstr "Votre paiement a bien été pris en compte, vous allez être redirigé dans quelques instants."
+
+#: vads_payment_plugin.php:186
+msgid "An error has occured, you will be redirected shortly."
+msgstr "Une erreur est survenue, vous allez être redirigé dans quelques instants."
+
+#: vads_form_tmpl.php:9
+msgid "Click the button to pay with the secured payment platform "
+msgstr "Cliquer sur ce bouton pour payer avec la plate-forme de paiement sécurisé "
+
+#: vads_admin_tmpl.php:11
+msgid "Developped by"
+msgstr "Développé par"
+
+#: vads_admin_tmpl.php:20
+msgid "Contact us"
+msgstr "Courriel de contact"
+
+#: vads_admin_tmpl.php:29
+msgid "Module version"
+msgstr "Version du module"
+
+#: vads_admin_tmpl.php:38
+msgid "Platform version"
+msgstr "Version de la plateforme"
+
+#: vads_admin_tmpl.php:47
+msgid "Tested with"
+msgstr "Testé avec"
+
+#: vads_admin_tmpl.php:60
+msgid "Platform URL"
+msgstr "Url de la plateforme"
+
+#: vads_admin_tmpl.php:64
+msgid "Link to the payment platform."
+msgstr "Url vers laquelle le client sera redirigé pour le paiement."
+
+#: vads_admin_tmpl.php:70
+msgid "Site ID"
+msgstr "Identifiant Site"
+
+#: vads_admin_tmpl.php:74
+msgid "The identifier provided by your bank."
+msgstr "Identifiant fourni par votre banque."
+
+#: vads_admin_tmpl.php:81
+msgid "Certificate in test mode"
+msgstr "Certificat en mode test"
+
+#: vads_admin_tmpl.php:86
+msgid "Certificate provided by your bank for test (Available in your back office)."
+msgstr "Certificat fourni par votre banque (Disponible sur l'outil de gestion de caisse)."
+
+#: vads_admin_tmpl.php:93
+msgid "Certificate in production mode"
+msgstr "Certificat en mode production"
+
+#: vads_admin_tmpl.php:98
+msgid "Certificate provided by your bank (Available in your back office)."
+msgstr "Certificat fourni par votre banque (Disponible sur l'outil de gestion de caisse aprés passage en production)"
+
+#: vads_admin_tmpl.php:105
+msgid "Mode"
+msgstr "Mode"
+
+#: vads_admin_tmpl.php:111
+msgid "The context mode of this module."
+msgstr "Mode de fonctionnement du module."
+
+#: vads_admin_tmpl.php:122
+msgid "Default language"
+msgstr "Langage par défaut"
+
+#: vads_admin_tmpl.php:127
+msgid "French"
+msgstr "Français"
+
+#: vads_admin_tmpl.php:128
+msgid "German"
+msgstr "Allemand"
+
+#: vads_admin_tmpl.php:129
+msgid "English"
+msgstr "Anglais"
+
+#: vads_admin_tmpl.php:130
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: vads_admin_tmpl.php:131
+msgid "Chinese"
+msgstr "Chinois"
+
+#: vads_admin_tmpl.php:132
+msgid "Italian"
+msgstr "Italien"
+
+#: vads_admin_tmpl.php:133
+msgid "Japanese"
+msgstr "Japonais"
+
+#: vads_admin_tmpl.php:134
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: vads_admin_tmpl.php:136
+msgid "Select the language to use on the payment page by default."
+msgstr "Sélectionner le langage par défaut à utiliser sur la page de paiement."
+
+#: vads_admin_tmpl.php:143
+msgid "Available languages"
+msgstr "Langues disponibles"
+
+#: vads_admin_tmpl.php:157
+msgid "Select none to use gateway config."
+msgstr "Ne rien sélectionner pour utiliser la configuration de la plateforme."
+
+#: vads_admin_tmpl.php:164
+msgid "Shop name"
+msgstr "Nom de la boutique"
+
+#: vads_admin_tmpl.php:169
+msgid "Shop name to display on the payment page. Leave blank to use gateway config."
+msgstr "Nom de la boutique à afficher sur la page de paiement. Laisser vide pour utiliser le nom enregistré par la plateforme"
+
+#: vads_admin_tmpl.php:176
+msgid "Shop url"
+msgstr "URL de la boutique"
+
+#: vads_admin_tmpl.php:181
+msgid "Shop url to display on the payment page. Leave blank to use gateway config."
+msgstr "Url affichée sur la page de paiement. Laisser vide pour utiliser l'url enregistrée par la plateforme"
+
+#: vads_admin_tmpl.php:188
+msgid "Capture delay"
+msgstr "Délai avant remise en banque"
+
+#: vads_admin_tmpl.php:193
+msgid "The number of days before the restoration bank (adjustable in your back office)."
+msgstr "Le nombre de jours avant la remise en banque (paramétrable sur votre back office)."
+
+#: vads_admin_tmpl.php:200
+msgid "Validation mode"
+msgstr "Mode de validation"
+
+#: vads_admin_tmpl.php:205
+msgid "Default"
+msgstr "Par défaut"
+
+#: vads_admin_tmpl.php:206
+msgid "Automatic"
+msgstr "Automatique"
+
+#: vads_admin_tmpl.php:207
+msgid "Manual"
+msgstr "Manuel"
+
+#: vads_admin_tmpl.php:209
+msgid "If manual is selected, you will have to confirm payments manually in your back office."
+msgstr "En mode manuel, vous devrez confirmer les paiements dans l'outil de gestion de caisse."
+
+#: vads_admin_tmpl.php:217
+msgid "Card types"
+msgstr "Types de carte"
+
+#: vads_admin_tmpl.php:222
+msgid "The card type(s) that can be used for the payment separated by semicolons."
+msgstr "Le(s) type(s) de carte pouvant étre utilisé(s) pour le paiement, séparés par des points-virgules."
+
+#: vads_admin_tmpl.php:233
+msgid "Minimum amount"
+msgstr "Montant minimum"
+
+#: vads_admin_tmpl.php:238
+msgid "Minimum amount allowed."
+msgstr "Montant minimum pour lequel cette methode de paiement est disponible"
+
+#: vads_admin_tmpl.php:245
+msgid "Maximum amount"
+msgstr "Montant maximum"
+
+#: vads_admin_tmpl.php:250
+msgid "Maximum amount allowed."
+msgstr "Montant maximum pour lequel cette methode de paiement est disponible."
+
+#: vads_admin_tmpl.php:261
+msgid "Automatic forward"
+msgstr "Redirection automatique"
+
+#: vads_admin_tmpl.php:265
+msgid "Yes"
+msgstr "Oui"
+
+#: vads_admin_tmpl.php:266
+msgid "No"
+msgstr "Non"
+
+#: vads_admin_tmpl.php:267
+msgid "If enabled, the client is automatically forwarded to your site at the end of the payment process."
+msgstr "Si activée, le client sera redirigé automatiquement vers votre site à la fin du processus de paiement."
+
+#: vads_admin_tmpl.php:274
+msgid "Success forward timeout"
+msgstr "Temps avant redirection (succès)"
+
+#: vads_admin_tmpl.php:279
+msgid "Time in seconds (0-300) before the client is automatically forwarded to your site when the payment was successful."
+msgstr "Temps en secondes (0-300) avant que le client ne soit redirigé automatiquement vers votre site lorsque le paiement a réussi."
+
+#: vads_admin_tmpl.php:286
+msgid "Success forward message"
+msgstr "Message avant redirection (succès)"
+
+#: vads_admin_tmpl.php:291
+msgid "Message posted on the payment platform before forwarding when the payment was successful."
+msgstr "Message affiché sur la plateforme de paiement avant redirection lorsque le paiement a réussi."
+
+#: vads_admin_tmpl.php:298
+msgid "Failure forward timeout"
+msgstr "Temps avant redirection (échec)"
+
+#: vads_admin_tmpl.php:303
+msgid "Time in seconds (0-300) before the client is automatically forwarded to your site when the payment failed."
+msgstr "Temps en secondes (0-300) avant que le client ne soit redirigé automatiquement vers votre site lorsque le paiement a échoué."
+
+#: vads_admin_tmpl.php:310
+msgid "Failure forward message"
+msgstr "Message avant redirection (échec)"
+
+#: vads_admin_tmpl.php:315
+msgid "Message posted on the payment platform before forwarding when the payment failed."
+msgstr "Message affiché sur la plateforme de paiement avant redirection, lorsque le paiement a échoué."
+
+#: vads_admin_tmpl.php:322
+msgid "Return mode"
+msgstr "Mode de retour"
+
+#: vads_admin_tmpl.php:331
+msgid "Method that will be used for transmitting the payment result from the payment gateway to your store."
+msgstr "Façon dont le client transmettra le résultat du paiement lors de son retour sur la boutique."
+
+#: vads_admin_tmpl.php:338
+msgid "Additional GET parameters"
+msgstr "Paramètres GET supplémentaires"
+
+#: vads_admin_tmpl.php:343
+msgid "Extra parameters sent on return in GET mode."
+msgstr "Paramètres supplémentaires transmis en mode GET au retour."
+
+#: vads_admin_tmpl.php:350
+msgid "Additional POST parameters"
+msgstr "Paramètres POST supplémentaires"
+
+#: vads_admin_tmpl.php:355
+msgid "Extra parameters sent on return in POST mode."
+msgstr "Paramètres supplémentaires transmis en mode POST au retour."
+
+#: vads_admin_tmpl.php:362
+msgid "Return URL"
+msgstr "URL de retour à la boutique"
+
+#: vads_admin_tmpl.php:367
+msgid "URL on which the client is redirected after payment."
+msgstr "URL où sera redirigé le client aprés avoir cliqué sur 'retour à la boutique'."
+
+#: vads_admin_tmpl.php:374
+msgid "Server URL to copy in your store back office"
+msgstr "Url serveur à copier dans l'outil de gestion de caisse"
+
+#, fuzzy
+#~ msgid "PayZen\\n payment method."
+#~ msgstr "La méthode %s n'a pas démarré correctement"
+
